@@ -1,4 +1,4 @@
-package CH02;
+package CH02_Threads_and_Processes;
 
 /**
  * Two threads chopping vegetables
