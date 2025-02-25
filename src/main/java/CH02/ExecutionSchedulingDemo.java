@@ -1,4 +1,4 @@
-package org.example;
+package CH02;
 
 /**
  * Two threads chopping vegetables
